@@ -39,7 +39,11 @@ public class MenuRepository {
         if (line==null|| line.equals("")) return null;
         StringTokenizer st=new StringTokenizer(line, ",");
         String name= st.nextToken();
-        double price = Double.parseDouble(st.nextToken());
+        double price=10;
+        try {
+            price= Double.parseDouble(st.nextToken());
+        }catch (NumberFormatException ignored){
+        }
         item = new MenuDataModel(name, 0, price);
         return item;
     }

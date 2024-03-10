@@ -26,7 +26,9 @@ public class PaymentRepository {
             String line = null;
             while((line=br.readLine())!=null){
                 Payment payment=getPayment(line);
-                paymentList.add(payment);
+                if(payment!=null) {
+                    paymentList.add(payment);
+                }
             }
             br.close();
         } catch (FileNotFoundException e) {
@@ -37,7 +39,7 @@ public class PaymentRepository {
     }
 
     private Payment getPayment(String line){
-        Payment item=null;
+        Payment item = null;
         if (line==null|| line.equals("")) return null;
         StringTokenizer st=new StringTokenizer(line, ",");
         int tableNumber= Integer.parseInt(st.nextToken());
