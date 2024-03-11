@@ -17,6 +17,8 @@ import javafx.stage.PopupWindow;
 import javafx.stage.Stage;
 import javafx.scene.text.FontWeight;
 import pizzashop.gui.OrdersGUI;
+import pizzashop.service.MenuService;
+import pizzashop.service.PaymentService;
 import pizzashop.service.PizzaService;
 
 import static javafx.scene.paint.Color.DARKBLUE;
@@ -52,10 +54,14 @@ public class MainGUIController  {
     OrdersGUI  table8Orders = new OrdersGUI();
 
     PizzaService service;
+    MenuService menuService;
+    PaymentService paymentService;
 
     public MainGUIController(){}
 
-    public void setService(PizzaService service){
+    public void setService(MenuService menuService, PaymentService paymentService, PizzaService service){
+        this.menuService = menuService;
+        this.paymentService = paymentService;
         this.service=service;
         tableHandlers();
     }
