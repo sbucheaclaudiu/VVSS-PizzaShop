@@ -1,0 +1,36 @@
+
+p
+java:S3740"/Provide the parametrized type for this generic.(èöâáøÿÿÿÿJ$885cc895-57e7-4ef6-9256-d847978a66ee
+k
+java:S3740"/Provide the parametrized type for this generic.(×è¸–J$c1741e36-20b3-408d-9021-21f38dba1a55
+k
+java:S3740"/Provide the parametrized type for this generic.(ñªò J$36198f93-e341-4c76-b0d6-8109984ccdc9
+p
+java:S3740"/Provide the parametrized type for this generic.(ƒÀÒëüÿÿÿÿJ$2e0aaaf2-2e7e-4598-9a3a-42c4781e5d57
+”
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÊØJ$bec10cba-a193-4863-8c3b-f9b3da443d9b
+i
+java:S1604{"(Make this anonymous inner class a lambda(ÎÃßÓüÿÿÿÿJ$089b4370-b792-4f2a-9be6-dcbd4e30fd43
+–
+java:S1104;"ZMake observableList a static final constant or non-public and provide accessors if needed.(Ù½©ÆJ$56b1ff14-550b-4dbe-8332-9819761b1958
+Â
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È’ÊøÿÿÿÿJ$efddbc45-338b-4be8-8674-19ea5d35e956
+˜
+java:S1450="WRemove the "menuData" field and declare it as a local variable in the relevant methods.(³£–øÿÿÿÿJ$327a69e9-e8ab-4542-98f0-1b696734ad91
+r
+java:S26965"6Make the enclosing method "static" or remove this set.(ûĞ¸—J$ca94ae03-8182-4e9a-aca1-7dfabdb79bf0
+q
+java:S22095"5Change this instance-reference to a static reference.(ûĞ¸—J$6c586f0a-7cb8-4c7c-b4f6-04a8864b0031
+|	java:S125="<This block of commented-out lines of code should be removed.(³£–øÿÿÿÿJ$816ed055-c111-432d-b6d5-a7067d0a6e72
+m
+java:S1602[",Remove useless curly braces around statement(ÇË®ûùÿÿÿÿJ$c0a1015e-d01c-4549-a388-fa44403d58d9
+f	java:S106f"+Replace this use of System.out by a logger.(ú•€ËJ$89053760-709a-4936-9da4-8a7596629434
+f	java:S106g"+Replace this use of System.out by a logger.(ÑºŠ‰J$65a78f35-62a2-4047-9c5b-e2716602b414
+f	java:S106h"+Replace this use of System.out by a logger.(¢ùùJ$7fd68826-5971-4692-9809-67f68f5f6619
+f	java:S106i"+Replace this use of System.out by a logger.(ú•€ËJ$7db5b4b2-2437-4834-b869-72ec15b87776
+v
+java:S2209k"5Change this instance-reference to a static reference.(…î˜±ÿÿÿÿÿJ$55f811ee-41a8-4200-84d8-9c1dc1acd359
+n
+java:S1602ˆ",Remove useless curly braces around statement(¸¯¥–úÿÿÿÿJ$0263f374-f8b9-4ac8-aad9-2bb32fb989d9
+u
+java:S1128"4Remove this unused import 'pizzashop.gui.OrdersGUI'.(¿ëÇÈøÿÿÿÿJ$2b2e73e6-97d7-4e8d-8cc4-79d00a5a75ce

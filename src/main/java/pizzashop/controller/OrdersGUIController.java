@@ -49,7 +49,7 @@ public class OrdersGUIController {
         return totalAmount;
     }
     public void setTotalAmount(double totalAmount) {
-        this.totalAmount = totalAmount;
+        OrdersGUIController.totalAmount = totalAmount;
     }
 
     private PizzaService service;

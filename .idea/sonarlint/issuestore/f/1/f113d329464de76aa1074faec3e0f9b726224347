@@ -1,0 +1,24 @@
+
+p
+java:S3740"/Provide the parametrized type for this generic.(ÝÈ«ðÿÿÿÿÿJ$9a9234c5-65c6-4b10-8175-df62403f211d
+i
+java:S1604"(Make this anonymous inner class a lambda(ôâŠûýÿÿÿÿJ$63d60f6e-87d2-4efd-b236-23b73b68e477
+d
+java:S1604"(Make this anonymous inner class a lambda(„­Ÿ³J$6d0b4912-2efa-45bb-8c1a-999a5c15ed53
+’
+java:S1104"QMake order a static final constant or non-public and provide accessors if needed.(èÊçÀùÿÿÿÿJ$194ad680-8389-4f7d-b805-de87b9a6dbd1
+‘
+java:S1104"UMake addOrders a static final constant or non-public and provide accessors if needed.(„­Ÿ³J$7b6944d4-f1b6-4652-9923-fefa55e097eb
+l
+java:S1444"+Make this "public static order" field final(èÊçÀùÿÿÿÿJ$626e012c-f52b-4607-bc84-8cdc140ea183
+c
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿJ$1cf1a7dd-b7e8-4715-b6ec-7179ea899cad
+^
+java:S2386"Make this member "protected".(èÊçÀùÿÿÿÿJ$e0c6fbfd-a8d2-40ef-bd20-4e9faf1b6faf
+a
+java:S2129" Remove this "String" constructor(“×ÞúÿÿÿÿJ$09ab129f-1489-4926-acde-92e5fd0ab598
+Ÿ
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿJ$654d836e-d4f8-40ff-8b32-fae7c2b69bb9
+f	java:S106>"+Replace this use of System.out by a logger.(ú•€ËJ$2e8f6811-7d37-4b06-a708-28837c9e4c46
+k	java:S106?"+Replace this use of System.out by a logger.(‡±§­üÿÿÿÿJ$78fb3a86-12c3-4cba-915f-8f7c315ee089
+f	java:S106@"+Replace this use of System.out by a logger.(ú•€ËJ$a4c00447-9211-4edb-b74d-aa0c945c933a

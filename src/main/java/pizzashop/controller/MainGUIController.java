@@ -57,8 +57,6 @@ public class MainGUIController  {
     MenuService menuService;
     PaymentService paymentService;
 
-    public MainGUIController(){}
-
     public void setService(MenuService menuService, PaymentService paymentService, PizzaService service){
         this.menuService = menuService;
         this.paymentService = paymentService;

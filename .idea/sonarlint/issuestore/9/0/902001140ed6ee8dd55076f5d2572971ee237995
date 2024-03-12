@@ -1,0 +1,16 @@
+
+x
+java:S1192"[Define a constant instead of duplicating this literal "--------------------------" 6 times.(ú•€Ë8§»Ğã1
+R
+java:S3655."5Call "result.isPresent()" before accessing the value.(îçĞµ8²»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(ú•€Ë8´»Ğã1
+L	java:S106"+Replace this use of System.out by a logger.(ç”ŠÎûÿÿÿÿ8´»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(Òúº‘8µ»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(ú•€Ë8µ»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(ú•€Ë8µ»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(ÏúËá8µ»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(á•î˜8µ»Ğã1
+G	java:S106"+Replace this use of System.out by a logger.(ú•€Ë8µ»Ğã1
+G	java:S106 "+Replace this use of System.out by a logger.(ú•€Ë8¶»Ğã1
+L	java:S106!"+Replace this use of System.out by a logger.(‡à¼Óøÿÿÿÿ8¶»Ğã1
+G	java:S106""+Replace this use of System.out by a logger.(ú•€Ë8¶»Ğã1
