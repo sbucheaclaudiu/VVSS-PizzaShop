@@ -1,0 +1,15 @@
+
+x
+java:S36550"5Call "result.isPresent()" before accessing the value.(îçĞµ8ş£‘ã1J$2d7920fd-5e2b-4fdc-8e64-b0a5302d075c
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Î”´ûÿÿÿÿ8€Å‘ã1J$0e54c0cc-e19a-48e6-bbd8-9f6a82f42a2c
+r	java:S106"+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8€¤‘ã1J$d4418fc5-f717-4fc3-b91b-78ca5a775877
+r	java:S106"+Replace this use of System.out by a logger.(ç”ŠÎûÿÿÿÿ8€¤‘ã1J$8fd63e8c-d988-4468-beef-311289b80215
+m	java:S106"+Replace this use of System.out by a logger.(Òúº‘8€¤‘ã1J$857d4ee9-2a45-46d3-b3c0-2826ab42e8e9
+r	java:S106"+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8¤‘ã1J$de996837-a6b3-4250-ad66-e63b044b2feb
+r	java:S106"+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8¤‘ã1J$e5ca09f1-9e18-4a8b-a32c-02190ef5d020
+m	java:S106"+Replace this use of System.out by a logger.(ÏúËá8¤‘ã1J$43fa373f-0224-41b2-bbfe-f07d202242f6
+m	java:S106"+Replace this use of System.out by a logger.(á•î˜8¤‘ã1J$5486c24c-accd-4203-adcd-a0f8ceff88d6
+r	java:S106"+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8¤‘ã1J$02b83efe-63a3-4d88-ad02-13df41503820
+r	java:S106""+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8¤‘ã1J$af73b2eb-6f06-4b08-8595-46e4566c49b9
+r	java:S106#"+Replace this use of System.out by a logger.(‡à¼Óøÿÿÿÿ8¤‘ã1J$29a14719-e236-421e-943b-19c38e018789
+r	java:S106$"+Replace this use of System.out by a logger.(‹’µÇøÿÿÿÿ8¤‘ã1J$cb3fb99b-2912-490f-9c78-f4585e2e6df8
