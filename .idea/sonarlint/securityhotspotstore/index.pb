@@ -153,3 +153,8 @@ w
 G.idea/sonarlint/issuestore/b/b/bbf202272a96de5cd6b6828ffdc55fb3ce45289c,8/4/84e95bd0ea795e5307464eb72e7bd95d9f673c00
 Å
 Q.idea/sonarlint/securityhotspotstore/e/e/ee59d14697478af2514b9091435f66be2450e939,5/5/55728e4ca36df8bbf82f30a75faa2a5bef912b07
+Q
+!src/main/java/pizzashop/Main.java,d/7/d710b77068e128f035d497fc3878605971f031b5
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
