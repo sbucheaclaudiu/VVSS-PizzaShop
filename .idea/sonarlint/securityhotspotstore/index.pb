@@ -158,3 +158,9 @@ Q
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+j
+:src/test/java/pizzashop/service/PaymentServiceWBTTest.java,0/3/03b348f82b24279229c8c2dccd521667a6096bc2
+i
+9src/main/java/pizzashop/repository/PaymentRepository.java,e/f/ef6998620bd1015c5e4bddc19da8b0331cb111bf
+f
+6src/main/java/pizzashop/repository/MenuRepository.java,f/8/f88a69fdfce80aab608fa2398a93044f03454ca7

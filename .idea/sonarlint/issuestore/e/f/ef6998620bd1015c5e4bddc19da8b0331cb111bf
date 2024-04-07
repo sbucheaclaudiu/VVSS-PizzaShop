@@ -1,10 +1,10 @@
 
 à
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(„»à¶J$700ecf63-6b59-46d3-aeae-0f855899a19f
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(„»à¶J$3862714f-d4f8-49d7-90b6-9fc172d1ca7d
 à
-java:S2095C"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(˘ªù˝J$f4d511cd-f180-42f3-943a-5a0d9e5e8009
-w	java:S125"<This block of commented-out lines of code should be removed.(»˙ííJ$4b87e81a-5258-4fd6-b28c-970f29a6cea6
+java:S2095G"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(˘ªù˝J$560c59c1-b818-46ff-9e1f-128b72aa67d4
+w	java:S125"<This block of commented-out lines of code should be removed.(»˙ííJ$5775b9b4-00c8-422c-8b5d-50a096827840
 Ä
-java:S2147$"DCombine this catch with the one at line 34, which has the same body.(Ô≠£ƒJ$6877b596-017c-4c20-ac1c-38a0aa042e28
-w	java:S125>"<This block of commented-out lines of code should be removed.(»˙ííJ$73498e25-2ced-4b8b-b7a0-067b1f40cc88
-k	java:S106E"+Replace this use of System.out by a logger.(—£±‘˙ˇˇˇˇJ$2e8548f5-e07f-4eda-9553-be85b68a51dd
+java:S2147("DCombine this catch with the one at line 38, which has the same body.(Ô≠£ƒJ$888e6ac2-a845-409a-a75f-172290c0afca
+w	java:S125B"<This block of commented-out lines of code should be removed.(»˙ííJ$8163aa21-465d-4107-927d-696fd2f3adc1
+k	java:S106I"+Replace this use of System.out by a logger.(—£±‘˙ˇˇˇˇJ$f7096a0a-8379-4e61-893a-a72063256a8f

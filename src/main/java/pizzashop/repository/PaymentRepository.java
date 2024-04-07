@@ -17,6 +17,10 @@ public class PaymentRepository {
         readPayments();
     }
 
+    public void clear() {
+        paymentList.clear();
+    }
+
     private void readPayments(){
         //ClassLoader classLoader = PaymentRepository.class.getClassLoader();
         File file = new File(filename);
